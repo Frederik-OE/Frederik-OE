@@ -5,7 +5,7 @@
 
 - Exploring new technologies and developing cool things.
 
-- Senior developer [@Kanpla](https://kanpla.io/).
+- Lead developer [@Kanpla](https://kanpla.io/).
 
 
 <h3> Tech Stack</h3>
@@ -16,7 +16,7 @@
 
 - Turborepo | Rush | Workspaces | Github actions
 
-- AWS | Lambda | DynamoDB | EC2 | And more..
+- AWS | Lambda | DynamoDB | EC2 | Etc.
 
 <h3> More Tech I've Worked With </h3>
 
