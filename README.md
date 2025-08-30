@@ -3,20 +3,20 @@
 
 <h3>About Me </h3>
 
-- Exploring new technologies and developing cool things.
+- Exploring new technologies and developing cool things
 
-- Lead developer [@Kanpla](https://kanpla.io/).
+- Technical Team Lead [@Kanpla](https://kanpla.io/)
 
 
 <h3> Tech Stack</h3>
 
 - Everything Javascript
 
-- React | React Native | Nextjs | Vue | Storybook | RxJS
+- React | React Native | Nextjs | Vue | Storybook
 
-- Turborepo | Rush | Workspaces | Github actions
+- Monorepos | Turborepo | Workspaces | Github actions
 
-- AWS | Lambda | DynamoDB | EC2 | Etc.
+- Vercel | Firestore | AWS 
 
 <h3> More Tech I've Worked With </h3>
 
@@ -33,6 +33,8 @@
 <h3> 👀 Some of my personal projects </h3>
 
 #### See repositories below for code and links to live demos
+
+- [Padelog - Simple Padel Tournament Management](https://www.padelog.com/)
 
 - [Crafting simulator for the video game Path of Exile](https://github.com/planktoon1/PathofExile_Stash)
 
